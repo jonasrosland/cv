@@ -16,7 +16,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
 
     # Configure the home page
     [params.home]
-        introHeight              = "fullheight"            # Input either "medium" or "large" or "fullheight"
+        introHeight              = "small"            # Input either "medium" or "large" or "fullheight"
         showLatest               = false                    # Show latest blog post summary
         showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
         numberOfProjectsToShow   = 0                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
@@ -37,22 +37,22 @@ DefaultContentLanguage           = "en"                    # Default language fo
     # Social icons appear in introduction and contact section. Add as many more as you like.
     # Icon pack "fab" includes social network icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
     # Icon pack "fas" includes solid style icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
-    [[params.social]]
-        url   = "https://twitter.com/jonasrosland"
-        icon  = "twitter" # icon name without the 'fa-'
-        icon_pack = "fab"
-    [[params.social]]
-        url   = "https://mastodon.social/@jonasrosland"
-        icon  = "mastodon" # icon name without the 'fa-'
-        icon_pack = "fab"
-        html_attributes = "rel=\"me\"" # Add rel attribute for Mastodon profile link verification
+    # [[params.social]]
+    #     url   = "https://twitter.com/jonasrosland"
+    #     icon  = "twitter" # icon name without the 'fa-'
+    #     icon_pack = "fab"
+    # [[params.social]]
+    #     url   = "https://mastodon.social/@jonasrosland"
+    #     icon  = "mastodon" # icon name without the 'fa-'
+    #     icon_pack = "fab"
+    #     html_attributes = "rel=\"me\"" # Add rel attribute for Mastodon profile link verification
 
 
 # If you don't want to use the default menu, you can define one by yourself
-# [[menu.main]]
-#     name    = "Home"
-#     url     = "/"
-#     weight  = 0
+ [[menu.main]]
+     name    = "Send me an email"
+     url     = "mailto:jonas.rosland@gmail.com?subject=I have an opportunity for you"
+     weight  = 0
 # [[menu.main]]
 #     name    = "Blog"
 #     url     = "/blog/"

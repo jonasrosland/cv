@@ -11,8 +11,30 @@ weight: 8
 
 ## Work and leadership experience
 
+### Head of Open Source Community Engagement, VMware
+#### Boston, USA - 2020-current
+
+Building out the Community Management Team was instrumental to creating stable and enduring communities around several of the open source projects the Tanzu portfolio is built upon. Our community management team evolved from part time work into a critical function, translating an evolving Tanzu strategy into focus areas, frameworks, and actionable work to drive community engagement. My team is spread out across 3 continents, supporting global open source projects.
+
+My team all operate under one guiding principle: Community first. We ensure open source project maintainers and anyone involved in the projects are transparent with the community around upcoming changes and decisions, focusing on public feedback, and working together to ensure VMware’s goals align with the community’s. By consistently focusing on the community and our brand awareness, we have made VMware’s open source projects not just popular within the cloud native space, but also seen as welcoming for users and contributors across the globe.
+
+[Our processes around open source guidelines and community health checks are now open sourced and shared with the community.](https://github.com/vmware-tanzu/community-engagement)
+
+Major accomplishments:
+
+- Learned, practiced and fine-tuned how to ease the team’s anxiety during change, reorganizations, and shifting priorities.
+- Leading the community management team across organizational boundaries for [Tanzu Community Edition (TCE)](https://tanzucommunityedition.io/), [Contour](https://projectcontour.io/), [Harbor](https://goharbor.io/), [Pinniped](https://pinniped.dev/), [Velero](https://velero.io/), [Cartographer](https://cartographer.sh/), [Carvel](https://carvel.dev/), and [Paketo](https://paketo.io/) to drive worldwide users, contributors, and maintainers for OSS projects that the Tanzu portfolio is built upon.
+- Leading the technical open source technical documentation team responsible for the delivery of technical documentation for TCE, Harbor, and Velero, and building out a community-driven model of documentation standards that all Tanzu portfolio open source projects can follow to create high quality, user-focused documentation.
+- Act as part of the Tanzu OSS advisors, creating consistency within OSS projects across the Tanzu portfolio. By enabling the project teams well in advance before a project becomes publicly open source, we help the teams to be prepared to handle new communication flows with external users and contributors, how to engage with and enable new contributors, and how to evolve the perception of VMware in the open source space.
+- Act as the community management bridge to the Open Source Program Office, Office of the CTO, multiple BUs, Global Brand, and upstream CNCF/Kubernetes community efforts.
+- Building trust to receive funding across domains and previous pillars to expand the scope of the community management and technical documentation team, widening the breadth of technical complexity amongst open source projects.
+- Spearheading the community engagement health checks initiative, building a way for my team of community managers to regularly provide project teams with clear measurements on whether a project is failing or succeeding in meeting their engagement goals, and offer actionable tasks to course correct if needed, leading to a 2-3x contributor growth in the past 3 years. Maintainers and PMs sign off on improvements to be implemented to further enhance the community health within topics such as release cadence, documentation quality, and maintainer attentiveness.
+- Driving a company-wide implementation of a common template and process using Hugo and Netlify for all our open source project websites, to easily create and manage documentation and resources for projects.
+- Leading community efforts within the Kubernetes community to onboard new contributors en masse through his part of the leadership team for the Kubernetes Contributor Summit.
+
+
 ### Open Source Community Manager, VMware
-#### Boston, USA - 2018-current
+#### Boston, USA - 2018-2020
 
 As part of the Open Source Community Engagement team at VMware, I lead the creation and execution of open source community health guidelines and metrics.
 This was done as part of the transformation of VMware into a more open source focused organization.

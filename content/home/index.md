@@ -3,4 +3,4 @@ title: "Hi, I'm Jonas Rosland"
 headless: true
 ---
 
-Open Source Community Manager
+Head of Open Source Community Management
