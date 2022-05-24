@@ -14,7 +14,7 @@ weight: 8
 ### Head of Open Source Community Engagement, VMware
 #### Boston, USA - 2020-current
 
-The Community Management Team was instrumental to creating stable and enduring communities around several of the open source projects the Tanzu portfolio is built upon. Our community management team evolved from part-time work into a critical function, translating an evolving Tanzu strategy into focus areas, frameworks, and actionable work to drive community engagement. My team is spread out across 3 continents, supporting global open source projects.
+The Community Engagement Team was instrumental to creating stable and enduring communities around several of the open source projects the Tanzu portfolio is built upon. Our community engagement team evolved from part-time work into a critical function, translating an evolving Tanzu strategy into focus areas, frameworks, and actionable work to drive community engagement. My team is spread out across 3 continents, supporting global open source projects.
 
 My team operates under one guiding principle: Community first. We ensure open source project maintainers and anyone involved in the projects are transparent with the community around upcoming changes and decisions, focusing on public feedback, and working together to ensure VMware’s goals align with the community’s. We have made VMware’s open source projects not just popular within the cloud native space, but also seen as welcoming for users and contributors across the globe by consistently focusing on the community and our brand awareness.
 
