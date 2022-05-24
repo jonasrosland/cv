@@ -16,14 +16,14 @@ weight: 8
 
 Building out the Community Management Team was instrumental to creating stable and enduring communities around several of the open source projects the Tanzu portfolio is built upon. Our community management team evolved from part time work into a critical function, translating an evolving Tanzu strategy into focus areas, frameworks, and actionable work to drive community engagement. My team is spread out across 3 continents, supporting global open source projects.
 
-My team all operate under one guiding principle: Community first. We ensure open source project maintainers and anyone involved in the projects are transparent with the community around upcoming changes and decisions, focusing on public feedback, and working together to ensure VMware’s goals align with the community’s. By consistently focusing on the community and our brand awareness, we have made VMware’s open source projects not just popular within the cloud native space, but also seen as welcoming for users and contributors across the globe.
+My team operates under one guiding principle: Community first. We ensure open source project maintainers and anyone involved in the projects are transparent with the community around upcoming changes and decisions, focusing on public feedback, and working together to ensure VMware’s goals align with the community’s. By consistently focusing on the community and our brand awareness, we have made VMware’s open source projects not just popular within the cloud native space, but also seen as welcoming for users and contributors across the globe.
 
 [Our processes around open source guidelines and community health checks are now open sourced and shared with the community.](https://github.com/vmware-tanzu/community-engagement)
 
 Major accomplishments:
 
 - Building a diverse team of open source community managers and technical documentation writers, across 3 continents and 8 time zones.
-- Learned, practiced and fine-tuned how to ease the team’s anxiety during change, reorganizations, and shifting priorities.
+- Learning, practicing and fine-tuning how to ease the team’s anxiety during change, reorganizations, and shifting priorities.
 - Leading the community management team across organizational boundaries for [Tanzu Community Edition (TCE)](https://tanzucommunityedition.io/), [Contour](https://projectcontour.io/), [Harbor](https://goharbor.io/), [Pinniped](https://pinniped.dev/), [Velero](https://velero.io/), [Cartographer](https://cartographer.sh/), [Carvel](https://carvel.dev/), and [Paketo](https://paketo.io/) to drive worldwide users, contributors, and maintainers for OSS projects that the Tanzu portfolio is built upon.
 - Leading the technical open source technical documentation team responsible for the delivery of technical documentation for TCE, Harbor, and Velero, and building out a community-driven model of documentation standards that all Tanzu portfolio open source projects can follow to create high quality, user-focused documentation.
 - Act as part of the Tanzu OSS advisors, creating consistency within OSS projects across the Tanzu portfolio. By enabling the project teams well in advance before a project becomes publicly open source, we help the teams to be prepared to handle new communication flows with external users and contributors, how to engage with and enable new contributors, and how to evolve the perception of VMware in the open source space.
@@ -49,7 +49,7 @@ Major accomplishments:
   - https://sonobuoy.io
   - https://octant.dev
 - Organizing and facilitating community meetings for open source projects on a regular cadence
-- Leading community efforts within the Kubernetes community to onboard new contributors en masse through his part of the leadership team for the Kubernetes Contributor Summit.
+- Leading community efforts within the Kubernetes community to onboard new contributors en masse as part of the leadership team for the Kubernetes Contributor Summit.
   - Kubernetes Contributor Summit Lead at KubeCon Barcelona 2019
   - Kubernetes Contributor Summit Marketing Lead at KubeCon San Diego 2019
 
@@ -95,6 +95,7 @@ The {code} Team contributed to and created open source projects, acted in the in
 
 ### Developer Advocate, Dell EMC
 #### Boston, USA - 2014-2016
+
  - A co-founding member of the {code} Team, the open source initiative at EMC/Dell EMC/Dell Technologies
  - Led the development and publishing of over a dozen technical training videos leading to **100,000+ views on YouTube**, with topics around container technologies, APIs, and modern development strategies
  - Developed dashboards for aggregating metrics on the team's social media success
@@ -121,7 +122,7 @@ Focused on developing and open sourcing tools for automated large scale datacent
 ### Senior solutions engineer, Dell EMC (formerly EMC Corporation)
 #### Stockholm, Sweden - 2010-2013
 
-Part of the presales team known as vSpecialists, made sure EMC wins wherever there was a VMware deal on the table. Enablement of EMC employees and partners were a major priority. From 2012 a part of the Software-Defined Specialists, focused on cloud management and new application development methods.
+Part of the presales team known as vSpecialists, made sure EMC won wherever there was a VMware deal on the table. Enablement of EMC employees and partners were major priorities. From 2012 a part of the Software-Defined Specialists, focused on cloud management and new application development methods.
 
 Led parts of social media campaigns that resulted in EMC Sweden being in the top charts of social media enabled companies in the Nordics.
 Speaker at numerous events such as EMC Forum, VMware Forum, VMworld, PuppetCamp and other regional events throughout Europe.
@@ -145,7 +146,7 @@ Managed a 3-year university program called “Network administrator/System Techn
 ### Network technician, Deutsche Bank
 #### Frankfurt, Germany - 2004
 
-Intern at Deutsche Bank for a project called “Automatic ISDN Backup in Germany”, automated a connection backup solution for bank offices and ATMs across all of Germany. Configured and tested a vast array of Cisco and 3com routers for ISDN backup lines. The new functionality was initially rolled out in a small area of 20 banks, and later deployed throughout Europe for Deutsche Bank’s ISDN backup lines.
+Intern at Deutsche Bank for a project called “Automatic ISDN Backup in Germany,” automated a connection backup solution for bank offices and ATMs across all of Germany. Configured and tested a vast array of Cisco and 3com routers for ISDN backup lines. The new functionality was initially rolled out in a small area of 20 banks, and later deployed throughout Europe for Deutsche Bank’s ISDN backup lines.
 
 ---
 
@@ -177,4 +178,4 @@ Intern at Deutsche Bank for a project called “Automatic ISDN Backup in Germany
    - Completed Cisco CCNA and CCNP
 
  - ##### University of Kalmar, Kalmar, Sweden - 2000-2002
-   - Computer science and English studies
+   - Computer Science and English studies
