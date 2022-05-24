@@ -14,7 +14,7 @@ weight: 8
 ### Head of Open Source Community Engagement, VMware
 #### Boston, USA - 2020-current
 
-Building out the Community Management Team was instrumental to creating stable and enduring communities around several of the open source projects the Tanzu portfolio is built upon. Our community management team evolved from part time work into a critical function, translating an evolving Tanzu strategy into focus areas, frameworks, and actionable work to drive community engagement. My team is spread out across 3 continents, supporting global open source projects.
+Building out the Community Management Team was instrumental in creating stable and enduring communities around several of the open source projects the Tanzu portfolio is built upon. Our community management team evolved from part-time work into a critical function, translating an evolving Tanzu strategy into focus areas, frameworks, and actionable work to drive community engagement. My team is spread out across 3 continents, supporting global open source projects.
 
 My team operates under one guiding principle: Community first. We ensure open source project maintainers and anyone involved in the projects are transparent with the community around upcoming changes and decisions, focusing on public feedback, and working together to ensure VMware’s goals align with the community’s. By consistently focusing on the community and our brand awareness, we have made VMware’s open source projects not just popular within the cloud native space, but also seen as welcoming for users and contributors across the globe.
 
@@ -23,7 +23,7 @@ My team operates under one guiding principle: Community first. We ensure open so
 Major accomplishments:
 
 - Building a diverse team of open source community managers and technical documentation writers, across 3 continents and 8 time zones.
-- Learning, practicing and fine-tuning how to ease the team’s anxiety during change, reorganizations, and shifting priorities.
+- Learning, practicing, and fine-tuning how to ease the team’s anxiety during change, reorganizations, and shifting priorities.
 - Leading the open source community management team across organizational boundaries for [Tanzu Community Edition (TCE)](https://tanzucommunityedition.io/), [Contour](https://projectcontour.io/), [Harbor](https://goharbor.io/), [Pinniped](https://pinniped.dev/), [Velero](https://velero.io/), [Cartographer](https://cartographer.sh/), [Carvel](https://carvel.dev/), and [Paketo](https://paketo.io/) to drive worldwide users, contributors, and maintainers for OSS projects that the Tanzu portfolio is built upon.
 - Leading the open source technical documentation team responsible for the delivery of technical documentation for TCE, Harbor, and Velero, and building out a community-driven model of documentation standards that all Tanzu portfolio open source projects can follow to create high quality, user-focused documentation.
 - Act as part of the Tanzu OSS advisors, creating consistency within OSS projects across the Tanzu portfolio. By enabling the project teams well in advance before a project becomes publicly open source, we help the teams to be prepared to handle new communication flows with external users and contributors, how to engage with and enable new contributors, and how to evolve the perception of VMware in the open source space.
@@ -42,7 +42,7 @@ This was done as part of the transformation of VMware into a more open source-fo
 Major accomplishments:
 
 - Creating and executing on open source community engagement strategies, guidelines, and measurements, to grow projects and teams into positive contributors in the open source space
-- Planning, leading development contractors, and launch of multiple public web sites for open source projects:
+- Planning, leading development contractors, and launch of multiple public websites for open source projects:
   - https://goharbor.io
   - https://velero.io
   - https://projectcontour.io
@@ -58,7 +58,7 @@ Major accomplishments:
 ### Open Source Community Manager, {code}, Dell Technologies
 #### Boston, USA - 2016-2018
 
-Main responsibilities included planning and launching of the open source-focused **{code} Community** and its associated **DevHigh5** and **{code} Catalyst** programs. Always with a community-first mindset, defending the community from internal forces.
+Main responsibilities included planning and launching the open source-focused **{code} Community** and its associated **DevHigh5** and **{code} Catalyst** programs. Always with a community-first mindset, defending the community from internal forces.
 
 {code} was a strategic open source initiative supported by executive management driven by three main principles of a community-first mindset:
 
@@ -73,7 +73,7 @@ The {code} Team contributed to and created open source projects, acted in the in
  - Planned and launched several community outreach programs, such as the **{code} Catalyst program, the DevHigh5 program, {code} Catalyst Spotlights, {code} Webinars and {code} Assemblies**
    - **{code} Catalyst program**, an innovative program with the brightest minds in the open source community
    - **DevHigh5 program**, **shepherding 100+ open source projects** through processes surrounding legal, documentation, and community support
-   - **{code} Catalyst Spotlights**, a social media campaign where {code} Catalysts were interviewed on their open source involvement. Organized the editing, and publishing of videos to YouTube
+   - **{code} Catalyst Spotlights**, a social media campaign where {code} Catalysts were interviewed on their open source involvement. Organized the editing, and publishing of videos on YouTube
    - **{code} Webinars**, a webinar series where innovative open source-focused individuals presented information on their open source projects
    - **{code} Assemblies**, social events tied to open source events worldwide where open source-focused people could network and meet in real life
  - Wrote **2 published book chapters** (see more info under "Publications")
@@ -115,28 +115,28 @@ The {code} Team contributed to and created open source projects, acted in the in
 ### Researcher at the Office of the CTO, Dell EMC (formerly EMC Corporation)
 #### Boston, USA - 2013-2014
 
-Focused on developing and open sourcing tools for automated large scale datacenter deployments. Part of driving open source contributions from EMC.
+Focused on developing and open sourcing tools for automated large-scale data center deployments. Part of driving open source contributions from EMC.
 
 ---
 
 ### Senior solutions engineer, Dell EMC (formerly EMC Corporation)
 #### Stockholm, Sweden - 2010-2013
 
-Part of the presales team known as vSpecialists, made sure EMC won wherever there was a VMware deal on the table. Enablement of EMC employees and partners were major priorities. From 2012 a part of the Software-Defined Specialists, focused on cloud management and new application development methods.
+Part of the presales team known as vSpecialists, made sure EMC won wherever there was a VMware deal on the table. Enablement of EMC employees and partners was a major priority. From 2012 a part of the Software-Defined Specialists, focused on cloud management and new application development methods.
 
-Led parts of social media campaigns that resulted in EMC Sweden being in the top charts of social media enabled companies in the Nordics.
-Speaker at numerous events such as EMC Forum, VMware Forum, VMworld, PuppetCamp and other regional events throughout Europe.
+Led parts of social media campaigns that resulted in EMC Sweden being in the top charts of social media-enabled companies in the Nordics.
+Speaker at numerous events such as EMC Forum, VMware Forum, VMworld, PuppetCamp, and other regional events throughout Europe.
 
 ---
 
 ### Senior virtualization consultant, Parera Systemarkitekter AB
 #### Stockholm, Sweden - 2006-2010
 
-Designed, tested and implemented dozens of virtualization projects using VI3, vSphere, Hyper-V and Xen virtualization software. Also designed, tested and implemented dozens of storage projects using DellEMC and Dell EqualLogic storage, mostly in conjunction with virtualization projects. Conducted workshop and classes during these implementations, several using official Dell EMC courses.
+Designed, tested, and implemented dozens of virtualization projects using VI3, vSphere, Hyper-V, and Xen virtualization software. Also designed, tested, and implemented dozens of storage projects using Dell EMC and Dell EqualLogic storage, mostly in conjunction with virtualization projects. Conducted workshops and classes during these implementations, several using official Dell EMC courses.
 
 ---
 
-### Head of university program, University of Kalmar
+### Head of a university program, University of Kalmar
 #### Kalmar, Sweden - 2005-2006
 
 Managed a 3-year university program called “Network administrator/System Technician” with over 90 students, including coordination of courses and teachers. Taught courses in basic and advanced Windows and Linux administration, as well as courses in project management.
@@ -146,7 +146,7 @@ Managed a 3-year university program called “Network administrator/System Techn
 ### Network technician, Deutsche Bank
 #### Frankfurt, Germany - 2004
 
-Intern at Deutsche Bank for a project called “Automatic ISDN Backup in Germany,” automated a connection backup solution for bank offices and ATMs across all of Germany. Configured and tested a vast array of Cisco and 3com routers for ISDN backup lines. The new functionality was initially rolled out in a small area of 20 banks, and later deployed throughout Europe for Deutsche Bank’s ISDN backup lines.
+Intern at Deutsche Bank for a project called “Automatic ISDN Backup in Germany,” which automated a connection backup solution for bank offices and ATMs across all of Germany. Configured and tested a vast array of Cisco and 3com routers for ISDN backup lines. The new functionality was initially rolled out in a small area of 20 banks and later deployed throughout Europe for Deutsche Bank’s ISDN backup lines.
 
 ---
 
