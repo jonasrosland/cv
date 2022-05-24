@@ -36,8 +36,8 @@ Major accomplishments:
 ### Open Source Community Manager, VMware
 #### Boston, USA - 2018-2020
 
-As part of the Open Source Community Engagement team at VMware, I lead the creation and execution of open source community health guidelines and metrics.
-This was done as part of the transformation of VMware into a more open source focused organization.
+As part of the Open Source Community Engagement team at VMware, I led the creation and execution of open source community health guidelines and metrics.
+This was done as part of the transformation of VMware into a more open source-focused organization.
 
 Major accomplishments:
 
