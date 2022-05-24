@@ -22,6 +22,7 @@ My team all operate under one guiding principle: Community first. We ensure open
 
 Major accomplishments:
 
+- Building a diverse team of open source community managers and technical documentation writers, across 3 continents and 8 time zones.
 - Learned, practiced and fine-tuned how to ease the team’s anxiety during change, reorganizations, and shifting priorities.
 - Leading the community management team across organizational boundaries for [Tanzu Community Edition (TCE)](https://tanzucommunityedition.io/), [Contour](https://projectcontour.io/), [Harbor](https://goharbor.io/), [Pinniped](https://pinniped.dev/), [Velero](https://velero.io/), [Cartographer](https://cartographer.sh/), [Carvel](https://carvel.dev/), and [Paketo](https://paketo.io/) to drive worldwide users, contributors, and maintainers for OSS projects that the Tanzu portfolio is built upon.
 - Leading the technical open source technical documentation team responsible for the delivery of technical documentation for TCE, Harbor, and Velero, and building out a community-driven model of documentation standards that all Tanzu portfolio open source projects can follow to create high quality, user-focused documentation.
@@ -30,7 +31,6 @@ Major accomplishments:
 - Building trust to receive funding across domains and previous pillars to expand the scope of the community management and technical documentation team, widening the breadth of technical complexity amongst open source projects.
 - Spearheading the community engagement health checks initiative, building a way for my team of community managers to regularly provide project teams with clear measurements on whether a project is failing or succeeding in meeting their engagement goals, and offer actionable tasks to course correct if needed, leading to a 2-3x contributor growth in the past 3 years. Maintainers and PMs sign off on improvements to be implemented to further enhance the community health within topics such as release cadence, documentation quality, and maintainer attentiveness.
 - Driving a company-wide implementation of a common template and process using Hugo and Netlify for all our open source project websites, to easily create and manage documentation and resources for projects.
-- Leading community efforts within the Kubernetes community to onboard new contributors en masse through his part of the leadership team for the Kubernetes Contributor Summit.
 
 
 ### Open Source Community Manager, VMware
@@ -49,8 +49,9 @@ Major accomplishments:
   - https://sonobuoy.io
   - https://octant.dev
 - Organizing and facilitating community meetings for open source projects on a regular cadence
-- Kubernetes Contributor Summit Lead at KubeCon Barcelona 2019
-- Kubernetes Contributor Summit Marketing Lead at KubeCon San Diego 2019
+- Leading community efforts within the Kubernetes community to onboard new contributors en masse through his part of the leadership team for the Kubernetes Contributor Summit.
+  - Kubernetes Contributor Summit Lead at KubeCon Barcelona 2019
+  - Kubernetes Contributor Summit Marketing Lead at KubeCon San Diego 2019
 
 ---
 

@@ -46,7 +46,22 @@ DefaultContentLanguage           = "en"                    # Default language fo
     #     icon  = "mastodon" # icon name without the 'fa-'
     #     icon_pack = "fab"
     #     html_attributes = "rel=\"me\"" # Add rel attribute for Mastodon profile link verification
-
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    # noClasses = true
+    # For styles, see https://xyproto.github.io/splash/docs/longer/all.html
+    style = "solarized-dark"
+    tabWidth = 4
 
 # If you don't want to use the default menu, you can define one by yourself
  [[menu.main]]
