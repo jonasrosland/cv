@@ -1,6 +1,6 @@
 ---
 title: "About me"
-image: "jonasrosland.jpg"
+image: "profile.jpg"
 weight: 8
 ---
 
@@ -32,6 +32,10 @@ Major accomplishments:
 - Spearheading the community engagement health checks initiative, building a way for my team of community managers to regularly provide project teams with clear measurements on whether a project is failing or succeeding in meeting their engagement goals, and offer actionable tasks to course correct if needed, leading to a 2-3x contributor growth in the past 3 years. Maintainers and PMs sign off on improvements to be implemented to further enhance the community health within topics such as release cadence, documentation quality, and maintainer attentiveness.
 - Driving a company-wide implementation of a common template and process using Hugo and Netlify for all our open source project websites, to easily create and manage documentation and resources for projects.
 
+### Executive Director, Hit Save!
+#### Boston, USA - 2020-current
+
+Hit Save! is a registered 501(c)(3) non-profit dedicated to the preservation of video games, their history, and related physical and digital materials. As Executive Director, my roles include partner relationships, developer interviews, community management and outreach, as well as fundraising, event management, and development of our online services such as [Hit Save main site](https://hitsave.org), [Preserve.Games federated community](https://preserve.games), and [our online archive based on Omeka S](https://archive.hitsave.org).
 
 ### Open Source Community Manager, VMware
 #### Boston, USA - 2018-2020
@@ -152,10 +156,7 @@ Intern at Deutsche Bank for a project called “Automatic ISDN Backup in Germany
 
 ### Awards and recognition:
 
- - Current:
-   - Open Organization Ambassador - 2018-current
-
- - Previous:
+   - Open Organization Ambassador - 2018-2023
    - Docker Captain - 2016-2018
    - Open Organization Emerging Contributor Award - 2018
    - vExpert
@@ -172,6 +173,10 @@ Intern at Deutsche Bank for a project called “Automatic ISDN Backup in Germany
 
 ---
 
+### Patents:
+
+ - ##### [System for data storage for distributed access](https://patents.justia.com/inventor/jonas-rosland)
+ 
 ### Education:
  - ##### University of Kalmar, Kalmar, Sweden - 2002-2005
    - Bachelor’s Degree in Computer Science
